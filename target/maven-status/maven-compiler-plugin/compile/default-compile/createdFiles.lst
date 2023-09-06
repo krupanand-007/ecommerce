@@ -1,0 +1,5 @@
+dev\ecomm\product\Application.class
+dev\ecomm\product\models\Product.class
+dev\ecomm\product\controllers\ProductController.class
+dev\ecomm\product\models\BaseModel.class
+dev\ecomm\product\models\Category.class
